@@ -1,0 +1,4 @@
+project_id = "ntakmqbvhbshctxvxebx"
+
+[functions.meter-vision]
+verify_jwt = true
